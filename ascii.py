@@ -14,3 +14,6 @@ class ascOps():
         pass
     def upper_():
         pass
+''' in order to find the asciii value of character ewe have a operation called ord()
+use this for a ascill valur of a character'''
+'''coming to try and exception method'''
