@@ -1,5 +1,6 @@
 #atm task full(completed)(fix it for all executions)
 e1=[]
+print("enter the user count :")
 n=int(input(""ENTER THE USER COUNT"enter the users count: "))
 for i in range(0,6):
     em=[]
