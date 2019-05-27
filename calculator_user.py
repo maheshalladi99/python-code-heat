@@ -1,6 +1,6 @@
 import calculator
 import addition
-a=[1,2,3,4,4]
+a=[1,2,3,4,4,2,2,2,2,2]
 c=calculator.addition(a)
 print(c)
 print(a)
