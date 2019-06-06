@@ -1,6 +1,6 @@
 #atm task part2
 e1=[]
-n=int(input("enter the users count: "))
+n=int(input("enter the users  count: "))
 for i in range(0,3):
     em=[]
     e1.append(em)
