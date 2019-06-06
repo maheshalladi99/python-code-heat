@@ -6,7 +6,7 @@ for i in range(0,3):
     e1.append(em)
 for i in range (1,n+1):
     print(i,end=" ")
-    name=input("USER NAME: ")    
+    name=input("USER NAME : ")    
     e1[0].append(name)
     print(i,end=" ")
     mb_no=input("MOBILE NUMBER: ")
