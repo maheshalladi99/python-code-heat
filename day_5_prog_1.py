@@ -48,7 +48,7 @@ def strikedown():
  
 
 window = Tk()
-window.title('HousieTicket')
+window.title('Housie Ticket')
 
 # titleFrame = Frame(window)
 # titleFrame.pack(side=)
