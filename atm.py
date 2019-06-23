@@ -46,7 +46,7 @@ while(1):
         pd1 = e1[3].index(a1)
             
         if(p1 == e1[4][pd1]):
-            print("Enter the choise below")
+            print("ENTER THE CHOISE BELOW")
             print("1. Withdrawal      2. Deposit")
             inp=int(input("ENETR THE CHOOSEN OPTION HERE: "))
             
