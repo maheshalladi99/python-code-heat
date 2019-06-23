@@ -62,7 +62,7 @@ while(1):
                            
                            
             if(inp == 2):
-                           amount=int(input("Enter the amount: "))
+                           amount=int(input("Enter  the amount: "))
                            print("your balance is: ",e1[5][pd1]+amount)                                      
         else:               
             print("invalid password")
