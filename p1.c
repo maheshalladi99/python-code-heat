@@ -6,7 +6,7 @@ int main()
 {
     int i, n, c;
     
-    printf("How many rows you want to      show in pascal triangle?\n");
+    printf("How many     rows you want to      show in pascal triangle?\n");
     
     scanf("%d",&n);
     
