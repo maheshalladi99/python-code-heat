@@ -27,6 +27,6 @@ long factorial(int n)
     long result = 1;
     
     for( c = 1 ; c <= n ; c++ )
-    result = result*c;
+    result = result *c;
     return ( result );
 }
