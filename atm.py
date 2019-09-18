@@ -15,7 +15,7 @@ for i in range (1,n+1):
     print(i,end=" ")
     add=input("ADDRESS: ")
     e1[2].append(add)
-#print(e1)
+#print( e1)
 print("sucessfully registered")
 a=99665916
 b=1008
@@ -29,7 +29,7 @@ for i in range(1,n+1):
     a+=1
     b+=1
 #print(e1)
-############################################################################
+######################################################################## ####
 def amountfun(amount):
     if (amount <= e1[5][pd1]):
         
