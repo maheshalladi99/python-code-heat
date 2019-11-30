@@ -22,7 +22,7 @@ int main()
 			largest = arr[i];
 	}
  
-        printf("\n largest element present in the given array is : %d", largest);
+        printf("\n largest element present  in the given array is : %d", largest);
  
         return 0;
  
