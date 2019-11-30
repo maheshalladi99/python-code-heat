@@ -6,7 +6,7 @@ int main()
  
         int arr[50], size, i, largest;
  
-        printf("\n Enter the size of the array: ");
+        printf("\n Enter the size   of the array: ");
 	scanf("%d", &size);
  
         printf("\n Enter %d elements of  the array: ", size);
