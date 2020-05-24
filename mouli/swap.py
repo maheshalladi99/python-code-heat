@@ -1,4 +1,5 @@
 while(True):
+    
     f=int(input())
     d=input()
     a=list(d)
